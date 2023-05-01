@@ -1,0 +1,9 @@
+@charset "utf-8";
+body h1 {
+    color: #AAA08D;
+}
+headings {
+    color: #AAA08D;
+    font: normal 72pt Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}
